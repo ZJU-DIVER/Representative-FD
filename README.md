@@ -5,7 +5,7 @@ Code for implementation of "Representative Functional Dependencies".
 Java
 
 ### Packages
-lta+ - code for algorithm LTA+
+lta - code for algorithm LTA+
 
 
 ### Datasets
